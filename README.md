@@ -1,1 +1,1 @@
-# test-app-aws
+# simple webpage for study
